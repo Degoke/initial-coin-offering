@@ -1,0 +1,6 @@
+{
+    "eslint.workingDirectories": [
+        "ico-contracts",
+        "ico-web"
+    ]
+}
