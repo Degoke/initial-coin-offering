@@ -1,0 +1,1 @@
+Crypto devs token contract address 0x5fbBfEfAF512D018d76f6dc5b7aB267225aFF314
