@@ -187,7 +187,7 @@ export default function Home() {
     if (loading) {
       return (
         <div>
-          <button className={styles.button}>Loading...</button>
+          <button classNarinkebyme={styles.button}>Loading...</button>
         </div>
       );
     }
@@ -227,7 +227,7 @@ export default function Home() {
       </div>
     );
   };
-
+  rinkeby
   return (
     <div>
       <Head>
