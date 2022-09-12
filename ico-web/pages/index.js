@@ -227,7 +227,6 @@ export default function Home() {
       </div>
     );
   };
-  rinkeby
   return (
     <div>
       <Head>
